@@ -1,2 +1,4 @@
 # Database-Application
-Simple HR-Application (Project complete)
+A simple HR application using the C++ programming language and MySQL server.
+
+Project Status - Complete.
