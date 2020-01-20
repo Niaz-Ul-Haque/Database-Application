@@ -1,4 +1,4 @@
 # Database-Application
-A simple HR application using the C++ programming language and MySQL server.
+Simple HR-Application that is connected to a mySQL database. This application can be used to edit the connected database. The backend is done by C++.
 
 Project Status - Complete.
